@@ -6,13 +6,13 @@ My name is Samantha Malorni. I'm excited to be on a new journey 🚀, learning f
 ## Frameworks and Tools that I've learned so far...
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3] (https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Github] (https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## What am I up to these days? 
-👩‍💻 Learning how to think like a developer
+👩‍💻 Learning how to THINK like a developer
 
-### Interests
+### Interests:
 * 🧳 Solo Travel   
 * 🎨 Art & Crafts
 * 🐶 Dogs
