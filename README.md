@@ -1,7 +1,7 @@
 
 # 👋 Hello there! 
 
-My name is Samantha Malorni. I'm excited to be on a new journey 🚀, learning full-stack web development at Nashville Software School. With a passion in accessibility, I hope to combine my technical skills, problem-solving, creativity and my own personal experience to help improve user experience in digital space. It is important to me that we create accessible websites and applications that supports inclusion for all users, especially for those with disabilities. 
+My name is Samantha Malorni. I'm excited to be on a new journey 🚀, learning full-stack web development at Nashville Software School. With a passion in accessibility, I hope to combine my technical skills, problem-solving, creativity and my own personal experiences to create an inclusive user experience in digital space. It is important to me that we create accessible websites and applications for all users, especially for those with disabilities. 
 
 ## Frameworks and Tools that I've learned so far...
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
