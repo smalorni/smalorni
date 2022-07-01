@@ -11,7 +11,7 @@ My name is Samantha Malorni. I'm excited to be on a new journey 🚀, learning f
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### What Am I Up To At The Moment?
-🍀 Creating an application using React, called "Focus Flow" for my client-side Capstone Project that helps photographers maintain a list of upcoming photo sessions and save photography ideas to the "flow board". 
+🍀 Creating a React application called "Focus Flow" for my client-side Capstone Project. The purpose of the app is to help photographers maintain a list of upcoming photo sessions and also allows them to save photography ideas to the "flow board". 
 
 ### Interests Outside of Coding:
 * 🧳 Solo Travel   
