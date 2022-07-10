@@ -1,23 +1,17 @@
 
-# 👋 Hello there! 
+<h1 align="center">👋 Hello There!</h1>
+<h3 align="center">Web Developer</h3>
+<p>I'm Samantha Malorni and currently learning full stack web development at Nashville Software School. Prior to my journey in web development, my background was in state law enforcement and disability advocacy. My passion in web development and accessibility derived from my own personal experience and during my time as a disability advocate when I saw how beneficial apps were for my clients. I wanted to learn more about technology and the development process behind the scenes. It led me on a new journey, learning coding, UX/UI and accessibility. My mission is to create user-friendly, accessible and inclusive websites and applications for all users and provide solutions to challenging barriers.</p>
 
-My name is Samantha Malorni. I'm excited to be on a new journey 🚀, learning full-stack web development at Nashville Software School. With a passion in accessibility that derived from my own personal experiences, my goal is to focus on inclusive user experience in digital space and solve challenging barriers. It is important to me that we create accessible websites and applications for all users, especially for those with disabilities. 
+<p>Outside of coding, I am a cricut nerd who loves anything art-related, a wine aficionado, and enjoys dog-sitting, solo travel, photography, meditation/float therapy/yoga, and a good suspenseful horror film. </p>
 
-## Frameworks and Tools:
-![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+* 🧠 I’m currently learning Back-End development: **Python, Django, SQL**
 
-### What Am I Up To At The Moment?
-🍀 Creating a React application called "Focus Flow" for my client-side Capstone Project. The purpose of the app is to help photographers maintain a list of upcoming photo sessions and also allows them to save photography ideas to the "flow board". 
+* 🏁 Completed Front-End Capstone Project - **Focus Flow**
 
-### Interests Outside of Coding:
-* 🧳 Solo Travel   
-* 🎨 Art & Crafts
-* ☯️ Meditation/Yoga/Float Therapy
-* 📸 Photography
-* 📝 Writing
-* 🍷 Wineries
-* 💀 Horror Films
+* 📫 Feel free to contact me at **samantha.ann.malorni@gmail.com** or connect with me on <a href="https://linkedin.com/in/linkedin.com/in/samantha-malorni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samantha-malorni" height="30" width="40" /></a>
+
+* 💭 Open to collaboration for projects
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira software" width="40" height="40"/></p>
