@@ -1,8 +1,7 @@
 
 <h1 align="center">👋 Hello World! 🌎</h1>
-<h2 align="center"> I'm Samantha!</h2>
 
-<p>Prior to my journey in web development, my background was in state law enforcement and disability advocacy. My interest in web development and accessibility derived from my own personal experiences and during my time as a disability advocate when I saw how beneficial apps were for my clients. It motivated me to learn more about the development process behind the scenes and led me on a new journey 🚀 of learning coding, UX/UI and accessibility. I even attended Nashville Software School to expand my knowledge even further. My goal is to collaborate with others who share the same mission of creating user-friendly, accessible and inclusive websites/applications and brainstorm solutions for challenging barriers.</p>
+<p>I am Samantha Malorni. Prior to my journey in web development, my background was in state law enforcement and disability advocacy. My interest in web development and accessibility derived from my own personal experiences and during my time as a disability advocate when I saw how beneficial apps were for my clients. It motivated me to learn more about the development process behind the scenes and led me on a new journey 🚀 of learning coding, UX/UI and accessibility. I even attended Nashville Software School to expand my knowledge even further. My goal is to collaborate with others who share the same mission of creating user-friendly, accessible and inclusive websites/applications and brainstorm solutions for challenging barriers.</p>
 
 <p>When I am not coding, I am a cricut nerd who loves anything art-related, a wine aficionado who also enjoys dog-sitting, solo travel, photography, meditation/float therapy/yoga, and a good suspenseful horror film. </p>
 
