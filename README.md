@@ -7,7 +7,7 @@
 
 * 🧠 I’m currently learning Back-End development: **Python, Django, SQL**
 
-* 🏁 Completed Front-End Capstone Project - **Focus Flow**
+* 🏁 Completed Front-End Capstone Project - **Focus Flow**. Check it out at <a href="https://github.com/smalorni/focus-flow"></a>
 
 * 💭 Always open to collaboration for projects
 
