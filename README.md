@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hey there, I am Samantha Malorni</h1>
+<h1 align="center">👋 Hey there, I'm Samantha Malorni</h1>
 
 * 🧠 I’m currently learning Back-End development: **Python, Django, SQL**
 
@@ -9,7 +9,7 @@
 
 * 📫 You can contact me at **samantha.ann.malorni@gmail.com**
 
-<p>When I am not a coding, I am a cricut nerd who loves anything art-related 🖌️, a wine aficionado 🍷 who enjoys solo travel ✈️, photography 📸, meditation/float therapy/yoga 🧘‍♀️, and a good suspenseful horror film 💀.</p>
+<p>Outside of coding, I am an artsy cricut nerd and a wine aficionado who enjoys solo travel, photography, meditation/float therapy/yoga, and a good suspenseful horror film.</p>
 
  <h2 align="left">Connect With Me</h2>
  <a href="https://www.linkedin.com/in/samantha-malorni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samantha-malorni" height="30" width="30"/></a>
