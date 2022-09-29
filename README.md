@@ -1,9 +1,9 @@
 
 <h1 align="center">👋 Hey there, I'm Samantha Malorni</h1>
 
-* 🧠 I’m currently learning Back-End development: **Python, Django, SQL**
+* 🎓 Nashville Software School Grad - **Cohort 56**
 
-* 🏁 Completed Front-End Capstone Project - **Focus Flow**
+* 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
 
 * 💭 Always open to collaboration for projects in coding, web design, UX/UI, accessibility
 
