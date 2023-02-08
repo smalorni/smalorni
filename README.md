@@ -5,11 +5,11 @@
 
 * 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
 
-* 💭 Always open to collaboration for projects in coding, web design, UX/UI, accessibility
+* 💭 Always open to collaboration for projects in front-end web development, web design, UX/UI, accessibility
 
 * 📫 You can contact me at **samantha.ann.malorni@gmail.com**
 
-<p>Outside of coding, I am an artsy cricut nerd and a wine aficionado who enjoys solo travel, photography, meditation/float therapy/yoga, and a good suspenseful horror film.</p>
+<p>Outside of coding, I am an artsy cricut nerd and a wine aficionado who enjoys solo travel, photography, meditation/float therapy/yoga, and a good horror film.</p>
 
  <h2 align="left">Connect With Me</h2>
  <a href="https://www.linkedin.com/in/samantha-malorni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samantha-malorni" height="30" width="30"/></a>
