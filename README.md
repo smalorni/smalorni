@@ -3,11 +3,13 @@
 
 * 🎓 Nashville Software School Grad - **Cohort 56**
 
-* 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
-
 * 💭 Always open to collaboration for projects in front-end web development, web design, UX/UI, accessibility
 
 * 📫 You can contact me at **samantha.ann.malorni@gmail.com**
+
+* 🧠 What am I learning at the moment? Next.js
+
+* 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
 
 <p>Outside of coding, I am an artsy cricut nerd and a wine aficionado who enjoys solo travel, photography, meditation/float therapy/yoga, and a good horror film.</p>
 
