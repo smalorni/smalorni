@@ -7,7 +7,7 @@
 
 * 📫 You can contact me at **samantha.ann.malorni@gmail.com**
 
-* 🧠 What am I learning at the moment? Next.js
+* 🧠 What am I learning at the moment? Next.js and Three.js
 
 * 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
 
