@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hey there, I'm Samantha Malorni</h1>
+<h1 align="center">👋 Hey there, I'm Samantha</h1>
 
 * 🎓 Nashville Software School Grad - **Cohort 56**
 
