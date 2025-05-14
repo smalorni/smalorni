@@ -1,17 +1,19 @@
 
 <h1 align="center">👋 Hey there, I'm Samantha</h1>
 
-* 🎓 Nashville Software School Grad - **Cohort 56**
+* 🚀 I am a Quality Assurance Analyst that performs manual and automation testing.
 
-* 💭 Always open to collaboration for projects in front-end web development, web design, UX/UI, accessibility
+* 🔍 Currently seeking my next role in Quality Assurance
 
 * 📫 You can contact me at **samantha.ann.malorni@gmail.com**
 
-* 🧠 What am I learning at the moment? Next.js and Three.js
+* 🧠 What am I learning at the moment? Selenium with Python
+
+* 🎓 Nashville Software School Grad - **Cohort 56**
 
 * 🏁 Capstone Projects: Front-End - **Focus Flow** and Full-Stack - **Mindful Journey**
 
-<p>When I am not coding, you can find me sipping on good wine while working on an art project that may or may not involve the Cricut. My other hobbies include travel, hiking, photography, meditation, float therapy, metal shows, and watching horror films.</p>
+<p>Hobbies: Travel, Hiking, Wineries, Art/Crafts, Horror Films</p>
 
  <h2 align="left">Connect With Me</h2>
  <a href="https://www.linkedin.com/in/samantha-malorni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samantha-malorni" height="30" width="30"/></a>
